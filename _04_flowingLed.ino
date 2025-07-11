@@ -1,8 +1,3 @@
-/***********************************************************
-File name: 04_flowingLed.ino
-Description: LED turn lighting control
-Website: www.quadstore.in
-***********************************************************/
 
 void setup()
 { 
